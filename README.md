@@ -1,1 +1,1 @@
-# Basis of NLP
+# Basic of NLP
